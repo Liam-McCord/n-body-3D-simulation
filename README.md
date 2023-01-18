@@ -6,6 +6,6 @@ I've always wanted to build something like this from scratch, and so I decided I
 done before but I thought I'd try it myself, while deriving the equations as I go to learn some stuff along the way. It's nothing special but I think it will be good
 practice :)
 
-If you find this page and have any questions just let me know!
+If you find this page and have any questions just let me know! If you would like to use the code for some reason, please ask me beforehand :)
 
 - Liam
