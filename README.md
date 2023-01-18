@@ -1,4 +1,4 @@
-# n-body-3D-simulation
+# n-body-3D-simulation (and hopefully AI prediction)
 I'm making a 3D n-body orbital simulator to create an AI dataset later on.
 
 Hey, this is a summer project of mine that I wanted to try before I went to University (though I may work on it there if I get any time).
