@@ -1,5 +1,5 @@
 # n-body-3D-simulation (and hopefully AI prediction)
-I'm making a 3D n-body orbital simulator to create an AI dataset later on.
+I'm making a 3D n-body orbital simulator to create an AI dataset later on. I'll start with making a functional AI for a 2-body system, then work my way up to n-body from there.
 
 Hey, this is a summer project of mine that I wanted to try before I went to University (though I may work on it there if I get any time).
 I've always wanted to build something like this from scratch, and so I decided I would learn Linear Algebra early and give it a try. Similar projects have been
